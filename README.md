@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Real Estate App with React Native Expo Router 👋
 
 
 ## App Screenshots
